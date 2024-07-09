@@ -13,5 +13,3 @@ I like low level technologies
 I wanted to be a teacher(sometimes)  
 
 windows user  
-
----
